@@ -6,7 +6,7 @@
 - 📫 How to reach me
   - [telegram](https://t.me/Veeen)
   - [email](evgeniidolgopolov@outlook.com)
-  - [website](https://dolgopolov.tech/)
+  - [portfolio](https://dolgopolov-tech.netlify.app)
 
 ## Skills: 
 <div>
